@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Analytics = () => {
+const Analytics = async () => {
   return (
     <div>Analytics</div>
   )
