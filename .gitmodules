@@ -1,0 +1,3 @@
+[submodule "dev-qna"]
+	path = dev-qna
+	url = https://github.com/md-zeon/DevQnA.git
