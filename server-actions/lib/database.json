@@ -1,0 +1,38 @@
+{
+  "2": {
+    "id": 2,
+    "name": "Add Dark Mode Feature",
+    "status": "in progress",
+    "type": "feature"
+  },
+  "3": {
+    "id": 3,
+    "name": "Update User Profile Page",
+    "status": "completed",
+    "type": "closed"
+  },
+  "4": {
+    "id": 4,
+    "name": "Improve SEO for Landing Page",
+    "status": "open",
+    "type": "feature"
+  },
+  "6": {
+    "id": 6,
+    "name": "Learned Server Actions",
+    "type": "feature",
+    "status": "open"
+  },
+  "7": {
+    "id": 7,
+    "name": "Fix Next.js API Route Bug",
+    "type": "bug",
+    "status": "in-progress"
+  },
+  "8": {
+    "id": 8,
+    "name": "Fix Hydration Warnings",
+    "type": "bug",
+    "status": "open"
+  }
+}
